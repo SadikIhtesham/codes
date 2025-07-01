@@ -93,7 +93,7 @@ numpy==1.26.4
 opt-einsum==3.3.0
 overrides==7.7.0
 packaging==23.2
-pandas==2.2.1
+pandas==1.5.3
 pandocfilters==1.5.1
 parso==0.8.4
 pillow==11.1.0
